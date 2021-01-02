@@ -71,7 +71,7 @@ if at == "2" :
   print ("12=Call")
   print ("13=Hammer")
   print ("Please copy the name and search for the tool")
-if at == "3"
+if at == "3" :
     print ("This Tool TO Best Hacking Tool And Spam this not install this name for best hacking tool and spam you search to tool or website or app")
-    if at == "4"
+    if at == "4" :
         print ("ctrl+C")
